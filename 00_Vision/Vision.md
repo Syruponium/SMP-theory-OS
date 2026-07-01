@@ -1,5 +1,5 @@
 ---
-Document:
+Document
 Vision
 
 Version:
