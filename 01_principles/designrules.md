@@ -193,7 +193,7 @@ Review produces:
 - possible compression
 - proposed patches
 
-Human approval is required before acceptance. AI can never - without premission of a human - write new knowledge to STORE.
+Human approval is required before acceptance. AI can never - without premission of a human - write new knowledge to STORE. It can however READ what is in the STORE and use STORE for reason.
 
 ---
 
@@ -371,7 +371,9 @@ The architecture should survive changes in technology.
 
 ---
 
-## Rule 17 - 
+## Rule 17 - AI always need to show the thouht process
+
+An important note for optimal transparancy is the show the thought process. Claude has a beautiful inbuilt function, where it is visible how it came up with an idea through Python code. This should always be visible via or a small dropdown menu within the chat-box, or a die-bar opening with all the reasoning info, and the citations where the values come from - or, at the very least, there need to be a button where humans can always access the thought process to check its internal logic and the sources _if_ asked for sources and claims from the internet.
 
 ## Rule 18 — The Theory evolves through feedback loops
 
