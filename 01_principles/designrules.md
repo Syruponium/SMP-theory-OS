@@ -139,7 +139,7 @@ Never dumped.
 
 ---
 
-## Rule 6 — Every reasoning process has an intent, or prompted by the user, or selected from a list.
+## Rule 6 — Every reasoning process has an intent - or prompted by the user, or selected from a list.
 
 A list of the specific reasoning intents:
 
