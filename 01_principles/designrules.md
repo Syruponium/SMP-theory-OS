@@ -192,25 +192,15 @@ Every extracted object first enters the Inbox.
 
 ```
 Reasoning (FLOW)
-
 ↓
-
 Extraction (FLOW)
-
 ↓
-
 Inbox (FLOW)
-
 ↓
-
 Review (FLOW <-> STORE)
-
 ↓
-
 Accept (FLOW <-> STORE)
-
 ↓
-
 Theory Graph (STORE)
 ```
 
@@ -390,33 +380,19 @@ Theory OS mirrors the same feedback principles it is designed to support.
 
 ```
 Question
-
 ↓
-
 Reasoning
-
 ↓
-
 Insight
-
 ↓
-
 Review
-
 ↓
-
 Acceptance
-
 ↓
-
 Theory
-
 ↓
-
 New Context
-
 ↓
-
 New Question
 ```
 
