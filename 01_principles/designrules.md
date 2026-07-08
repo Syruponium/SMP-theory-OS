@@ -86,21 +86,13 @@ The current navigation defines the reasoning context.
 
 ```
 Workspace
-
 ↓
-
 Theory
-
 ↓
-
 Layer
-
 ↓
-
 Branch
-
 ↓
-
 Focus
 ```
 
