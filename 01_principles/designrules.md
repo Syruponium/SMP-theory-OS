@@ -371,9 +371,29 @@ The architecture should survive changes in technology.
 
 ---
 
-## Rule 17 - AI always need to show the thought process (transparency for reasoning)
+## Rule 17 - easoning must be inspectable
 
-An important note for optimal transparancy is the show the thought process. Claude has a beautiful inbuilt function, where it is visible how it came up with an idea through Python code. This should always be visible via or a small dropdown menu within the chat-box, or a die-bar opening with all the reasoning info, and the citations where the values come from - or, at the very least, there need to be a button where humans can always access the thought process to check its internal logic and the sources _if_ asked for sources and claims from the internet.
+Theory OS must make reasoning inspectable without requiring the user to trust the AI blindly.
+
+Every AI output should provide an accessible reasoning audit.
+
+This does not require exposing private model internals or hidden chain-of-thought. Instead, the system must expose the reasoning artifacts necessary for human verification.
+
+A reasoning audit should include:
+
+- selected context
+- reasoning mode
+- assumptions
+- intermediate steps
+- python code and formulas used
+- values used
+- source citations
+- calculation traces
+- uncertainty notes
+- proposed conclusions
+- affected objects
+
+The user should always be able to inspect why an answer was produced, what information was used, and which parts of the Theory Graph would be affected if the output is accepted.
 
 ## Rule 18 — The Theory evolves through feedback loops
 
