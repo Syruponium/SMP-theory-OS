@@ -29,11 +29,8 @@ STORE never reasons. But it stores facts and values (ancors) that FLOW uses to r
 ```
 FLOW
 ↓
-
 Review
-
 ↓
-
 STORE
 ```
 
