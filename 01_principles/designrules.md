@@ -115,11 +115,11 @@ Navigation never changes knowledge.
 
 ## Rule 5 — Context is constructed, never accumulated
 
-Large context windows are not the solution.
+A large context windows are not the solution, neither is more information.
 
-Relevant context is.
+Only relevant information is what makes the proper context.
 
-Every AI interaction receives a generated Context Package.
+Every AI interaction can move from a clean slate, or receives a generated Context Package.
 
 A Context Package is built from:
 
@@ -139,19 +139,16 @@ Never dumped.
 
 ---
 
-## Rule 6 — Every reasoning process has an intent
+## Rule 6 — Every reasoning process has an intent, or prompted by the user, or selected from a list.
 
-Reasoning is never generic.
+A list of the specific reasoning intents:
 
-Every Reasoning Session has a specific intent.
-
-Examples:
-
-- Brainstorm
-- Clarification
-- Compression
+- A brainstorm where creating and exploring ideas and concept is the main intent
+- A clarification session
+- A rapid-fire-session (question/answer) for optimal FLOW of Ideas, Questions answered, clarification, etc
+- A compression of information (also what a rapid-fire-session can do)
 - Formula Review
-- Consistency Check
+- A consistency Check of internal logic and formulas
 - Evidence Review
 - Cross Theory Comparison
 - Deep Research
@@ -168,7 +165,7 @@ Intent determines:
 
 Reasoning Sessions are temporary computations.
 
-They are not knowledge.
+They are not knowledge, but they are for the intent to create new knowledge, insights or ideas.
 
 They may contain:
 
@@ -177,9 +174,7 @@ They may contain:
 - dead ends
 - experiments
 
-This is expected.
-
-Only accepted results survive.
+This is expected. Only accepted results survive.
 
 ---
 
@@ -198,7 +193,7 @@ Review produces:
 - possible compression
 - proposed patches
 
-Human approval is required before acceptance.
+Human approval is required before acceptance. AI can never - without premission of a human - write new knowledge to STORE.
 
 ---
 
@@ -207,27 +202,27 @@ Human approval is required before acceptance.
 Every extracted object first enters the Inbox.
 
 ```
-Reasoning
+Reasoning (FLOW)
 
 ↓
 
-Extraction
+Extraction (FLOW)
 
 ↓
 
-Inbox
+Inbox (FLOW)
 
 ↓
 
-Review
+Review (FLOW <-> STORE)
 
 ↓
 
-Accept
+Accept (FLOW <-> STORE)
 
 ↓
 
-Theory Graph
+Theory Graph (STORE)
 ```
 
 The Inbox protects the integrity of the Theory.
@@ -236,7 +231,7 @@ The Inbox protects the integrity of the Theory.
 
 ## Rule 10 — AI proposes, humans decide
 
-AI is the reasoning engine.
+AI is the reasoning enginem prompted by a question, or other types of input.
 
 Humans remain responsible for acceptance.
 
@@ -249,7 +244,7 @@ AI may:
 - challenge
 - compress
 
-AI never silently changes the Theory Graph.
+AI never silently changes the Theory Graph. Theory graph is a One-way street Writing. AI can only read. Human can Write (accept) to STORE new knowledge > Theory graph.
 
 ---
 
@@ -339,7 +334,7 @@ Theory OS is fundamentally a Context Operating System.
 
 The central problem is not storing information.
 
-The central problem is selecting the correct information at the correct moment.
+The central problem is selecting the correct information at the correct moment to better compress and output structureed information for papers, blogs, or videos. Information without output and integration, is useless.
 
 Every feature should improve one or more of:
 
@@ -376,7 +371,9 @@ The architecture should survive changes in technology.
 
 ---
 
-## Rule 17 — The Theory evolves through feedback loops
+## Rule 17 - 
+
+## Rule 18 — The Theory evolves through feedback loops
 
 Theory OS mirrors the same feedback principles it is designed to support.
 
