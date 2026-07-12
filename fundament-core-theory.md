@@ -188,6 +188,58 @@ You write the template once. The AI applies it to any subset of your theory.
 
 ---
 
+## Status: Everythin flows from here ##
+
+```
+STATUS: CLOSED
+├─ Meaning: "We have high confidence"
+├─ Data: Complete
+├─ Assumptions: Verified
+├─ Storage: STORE
+├─ Action: Can cite in papers, use for derivations
+└─ Review requirement: Yes (but approval not iteration)
+
+STATUS: OPEN
+├─ Meaning: "We know we don't know"
+├─ Data: Incomplete OR fundamental assumption questioned
+├─ Assumptions: One or more flagged as uncertain
+├─ Storage: TEMP-STORE (parked, not archived)
+├─ Action: Cannot cite, cannot use for derivations yet
+└─ Review requirement: Waiting (for new data/insights)
+
+STATUS: LOCKED
+├─ Meaning: "This is axiomatic"
+├─ Data: Experimental (e.g., Ttp = 13.8033 K)
+├─ Assumptions: None (this IS the axiom)
+├─ Storage: STORE (L0_canon)
+├─ Action: Foundation for all derivations
+└─ Review requirement: Never (unless new experimental evidence)
+
+STATUS: DERIVED
+├─ Meaning: "This follows from LOCKED + other DERIVED"
+├─ Data: Mathematical proof chain
+├─ Assumptions: Audit trail shows every step
+├─ Storage: STORE (with derivation visible)
+├─ Action: Can cite, can use
+└─ Review requirement: Only if LOCKED axioms change
+
+STATUS: EMPIRICAL_FIT
+├─ Meaning: "This matches data, but we don't understand why"
+├─ Data: Good fit to measurements
+├─ Assumptions: Some step is likely incomplete understanding
+├─ Storage: STORE (but flagged)
+├─ Action: Can use, but must note uncertainty
+└─ Review requirement: Ongoing (looking for deeper understanding)
+
+STATUS: VERV (Verouderd / Outdated)
+├─ Meaning: "We've moved past this understanding"
+├─ Data: Superseded by better explanation
+├─ Assumptions: Known to be incomplete
+├─ Storage: Archive (not in active use)
+├─ Action: Reference only (historical context)
+└─ Review requirement: No (but keep in archive)
+```
+
 ## The Repetition (The Secret)
 
 Every interaction in Theory OS follows the same four-step cycle, regardless of scale:
