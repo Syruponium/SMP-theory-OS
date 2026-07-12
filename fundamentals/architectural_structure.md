@@ -291,13 +291,13 @@ You (FULL_REVIEW) see:
   → Update dependency chain
   → No feedback loop, no coordination meeting needed
 ```
-### Full scale permission-structure in REVIEW MODE
+### Full scale permission-structure in REVIEW MODE: Example
 
 ```yaml
-Peter sees in Layer 04 Chemistry_Object_04 that an object is [OPEN]
-OPENS Database > Revises knowledge > New insight > Wants to REVIEW but this specific Issue is set on: [ONLY REVIEW BY {HENK and IRIS}
-> only then REVIEW CAN PASS TO LAYER 04 Chemistry_Object_04 [CLOSED]
-Item is moved from TEMP STORE > LAYER INTEGRATION
+STEP 1: Peter sees in Layer 04 Chemistry_Object_04 that an object is [OPEN]
+STEP 2: OPENS Database > Revises knowledge > New insight > Wants to REVIEW but this specific Issue is set on: [ONLY REVIEW BY {HENK and IRIS}
+[only then REVIEW CAN PASS TO LAYER 04 Chemistry_Object_04 [CLOSED]]
+STEP 3: Item is moved from TEMP STORE after HENK and IRIS reviewed > LAYER INTEGRATION
 ```yaml
 
 
