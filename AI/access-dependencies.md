@@ -33,7 +33,7 @@ When you update **Tau's formula**, **Muon's behavior changes automatically** (in
 
 Instead of embedding formulas in markdown and hoping, create an **explicit dependency layer**.
 
-### Part 1: The Formula Registry
+### Part 1: The Formula Registry (TEMPLATE - Template is the same, formula is different)
 
 Create a new file (or section in L0):
 
